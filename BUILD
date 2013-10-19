@@ -1,6 +1,7 @@
 [
  { "config": {
-    "component": "json"
+    "component": "json",
+    "licenses": [ "http://opensource.org/licenses/mit-license.php" ]
  } },
  { "cc_library": {
      "name" : "json",
